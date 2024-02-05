@@ -1,6 +1,10 @@
+
+
+
+
 # Background
 
-I really loved the [Microsoft Surface Pro kickstand](media/surface-pro-9-animation-video-desktop.mp4), with it's variable angle and low profile. When I got a Galaxy Tab S9 ultra, I was disappointed to see there wasn't an affordable option - Samsung's own [Book Cover Keyboard](https://www.samsung.com/us/mobile/mobile-accessories/tablets/galaxy-tab-s9-ultra-book-cover-keyboard-ef-dx915ubeguj/) costs $350 currently, and I did not want to shell out that much on an already expensive tablet - plus I didn't care about the keyboard.
+I really loved the [Microsoft Surface Pro kickstand](https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/1525fd21-1f78-4de3-8745-bda7217318ba), with it's variable angle and low profile. When I got a Galaxy Tab S9 ultra, I was disappointed to see there wasn't an affordable option - Samsung's own [Book Cover Keyboard](https://www.samsung.com/us/mobile/mobile-accessories/tablets/galaxy-tab-s9-ultra-book-cover-keyboard-ef-dx915ubeguj/) costs $350 currently, and I did not want to shell out that much on an already expensive tablet - plus I didn't care about the keyboard.
 
 # Design Process
 
@@ -12,6 +16,10 @@ I really loved the [Microsoft Surface Pro kickstand](media/surface-pro-9-animati
 
 # BOM
 | part | quantity | notes |
+
+
+
+
 | ---- | ---- | ---- |
 | 25mm M3 socket head cap screws | 4 | for the hinge |
 | M3 nylock nuts | 4 | for the hinge |
@@ -20,8 +28,8 @@ I really loved the [Microsoft Surface Pro kickstand](media/surface-pro-9-animati
 | *M3 Threaded Rod x 300mm* | 1 | optional but **recommended** - adds stability when joining the kickstand pieces together (can use any 3mm rod) |
 
 # Videos/Images
-- ![magnetic attachment](<media/stand magnet attachment.mp4>)
-- ![adjustability](media/adjustability.mp4)
+- ![magnetic attachment](https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/cb2b0fe9-b790-40e5-98b8-12700c52c84a)
+- ![adjustability](https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/690ef284-b9b1-4517-8593-113713282a53)
 - ![printed picture 1](media/20240202_122956.jpg)
 - ![printed picture 2](media/20240202_122357.jpg)
 - ![printed picture 3](media/20240202_122303.jpg)
