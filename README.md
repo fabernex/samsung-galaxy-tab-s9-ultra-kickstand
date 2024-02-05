@@ -16,10 +16,6 @@ I really loved the [Microsoft Surface Pro kickstand](https://github.com/fabernex
 
 # BOM
 | part | quantity | notes |
-
-
-
-
 | ---- | ---- | ---- |
 | 25mm M3 socket head cap screws | 4 | for the hinge |
 | M3 nylock nuts | 4 | for the hinge |
@@ -28,8 +24,10 @@ I really loved the [Microsoft Surface Pro kickstand](https://github.com/fabernex
 | *M3 Threaded Rod x 300mm* | 1 | optional but **recommended** - adds stability when joining the kickstand pieces together (can use any 3mm rod) |
 
 # Videos/Images
-- ![magnetic attachment](https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/cb2b0fe9-b790-40e5-98b8-12700c52c84a)
-- ![adjustability](https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/690ef284-b9b1-4517-8593-113713282a53)
-- ![printed picture 1](media/20240202_122956.jpg)
-- ![printed picture 2](media/20240202_122357.jpg)
-- ![printed picture 3](media/20240202_122303.jpg)
+https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/cb2b0fe9-b790-40e5-98b8-12700c52c84a
+
+https://github.com/fabernex/samsung-galaxy-tab-s9-ultra-kickstand/assets/55673361/a39f100f-3b8e-4a80-adda-cf3bf56887e7
+
+![printed picture 1](media/20240202_122956.jpg)
+![printed picture 2](media/20240202_122357.jpg)
+![printed picture 3](media/20240202_122303.jpg)
