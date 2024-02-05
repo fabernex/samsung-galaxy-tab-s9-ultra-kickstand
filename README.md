@@ -22,10 +22,10 @@ I really loved the [Microsoft Surface Pro kickstand](https://drive.google.com/fi
 
 # Videos/Images
 
-<iframe src="https://drive.google.com/file/d/1G3xtUA_Z0Y2sHJu3z1j3H9Qrw46Rhgov/preview" width="640" height="480" allow="autoplay"></iframe>
+adjustability: https://drive.google.com/file/d/1G3xtUA_Z0Y2sHJu3z1j3H9Qrw46Rhgov/preview
 
-<iframe src="https://drive.google.com/file/d/1GO41lvPYpuyF4cRh_Cl84gGd7RJG39y1/preview" width="640" height="480" allow="autoplay"></iframe>
+magnetic attachment: https://drive.google.com/file/d/1GO41lvPYpuyF4cRh_Cl84gGd7RJG39y1/preview
 
-![printed picture 1](img/20240202_122956.jpg)
-![printed picture 2](img/20240202_122357.jpg)
-![printed picture 3](img/20240202_122303.jpg)
+<img src="img/20240202_122956.jpg" width="640" height="320" />
+<img src="img/20240202_122357.jpg" width="640" height="320" />
+<img src="img/20240202_122303.jpg" width="640" height="320" />
