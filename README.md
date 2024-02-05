@@ -27,6 +27,6 @@ adjustability: https://drive.google.com/file/d/1G3xtUA_Z0Y2sHJu3z1j3H9Qrw46Rhgov
 
 magnetic attachment: https://drive.google.com/file/d/1GO41lvPYpuyF4cRh_Cl84gGd7RJG39y1/preview
 
-<img src="img/20240202_122956.jpg" width="640" height="320" />
-<img src="img/20240202_122357.jpg" width="640" height="320" />
-<img src="img/20240202_122303.jpg" width="640" height="320" />
+<img src="img/20240202_122956.jpg" width="300" height="300" />
+<img src="img/20240202_122357.jpg" width="300" height="300" />
+<img src="img/20240202_122303.jpg" width="300" height="300" />
