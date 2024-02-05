@@ -14,7 +14,7 @@ I really loved the [Microsoft Surface Pro kickstand](https://drive.google.com/fi
 
 | part                           | quantity | notes                                                                                                          |
 | ------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------- |
-| 10x5x2mm magnets | 32 | https://a.co/d/7UNIeGb - these were pretty strong |
+| 10x5x2mm magnets | 32 | https://a.co/d/7UNIeGb - these were pretty strong and come in a 100 pack |
 | 25mm M3 socket head cap screws | 4        | for the hinge                                                                                                  |
 | M3 nylock nuts                 | 4        | for the hinge                                                                                                  |
 | 16mm M3 socket head cap screw  | 1        | for joining the kickstand pieces together                                                                      |
