@@ -6,20 +6,22 @@ I really loved the Microsoft Surface Pro kickstand, with it's variable angle and
 # Design Process
 
 1. Mapped out the magnets using magnet paper and some post-its
-	- ![[s9-ultra-magnets.jpg]]
+	- [magnet locations](media/s9-ultra-magnets.jpg)
 2. Brought that into Fusion 360 to design and iterate
-	 - ![[galaxy-tab-s9-ultra-kickstand.f3d]]
+	 - [Fusion assembly](https://a360.co/3OwZ8lM)
+	 - [Fusion f3d file](./galaxy-tab-s9-ultra-kickstand.f3d)
 
-# Demo
-![[stand magnet attachment.mp4]]
-![[adjustability.mp4]]
-![[20240202_122956.jpg]]
-![[20240202_122357.jpg]]
-![[20240202_122303.jpg]]
+# Videos/Images
+[magnetic attachment](media/stand magnet attachment.mp4)
+[adjustability](media/adjustability.mp4)
+[printed picture 1](media/20240202_122956.jpg)
+[printed picture 2](media/20240202_122357.jpg)
+[printed picture 3](media/20240202_122303.jpg)
 # BOM
-|part| quantity | notes |
-|---|---|---|
-|25mm M3 socket head cap screws| 4 | for the hinge |
-|M3 nylock nuts| 4| for the hinge |
-|16mm M3 socket head cap screw | 1 | for joining the kickstand pieces together |
-|M3 nut | 1 | for joining the kickstand pieces together|
+| part | quantity | notes |
+| ---- | ---- | ---- |
+| 25mm M3 socket head cap screws | 4 | for the hinge |
+| M3 nylock nuts | 4 | for the hinge |
+| 16mm M3 socket head cap screw | 1 | for joining the kickstand pieces together |
+| M3 nut | 1 | for joining the kickstand pieces together |
+| M3 Threaded Rod x 300mm | 1 | optional - adds stability when joining the kickstand pieces together (can use any 3mm rod) |
